@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\source\repos\Curs CSharp IT School 01\App10\App10.csproj" />
+    <ProjectReference Include="..\App01\App01.csproj" />
+    <ProjectReference Include="..\App02\App02.csproj" />
+    <ProjectReference Include="..\App03\App03.csproj" />
+    <ProjectReference Include="..\App04\App04.csproj" />
+    <ProjectReference Include="..\App05\App05.csproj" />
+    <ProjectReference Include="..\App06\App06.csproj" />
+    <ProjectReference Include="..\App07\App07.csproj" />
+    <ProjectReference Include="..\App08\App08.csproj" />
+    <ProjectReference Include="..\App09\App09.csproj" />
+    <ProjectReference Include="..\App11\App11.csproj" />
+    <ProjectReference Include="..\App12\App12.csproj" />
+    <ProjectReference Include="..\App13\App13.csproj" />
+    <ProjectReference Include="..\App14\App14.csproj" />
+    <ProjectReference Include="..\App15\App15.csproj" />
+    <ProjectReference Include="..\App16\App16.csproj" />
+    <ProjectReference Include="..\ITSchool.AppUtilities\ITSchool.AppUtilities.csproj" />
+  </ItemGroup>
+
+</Project>
